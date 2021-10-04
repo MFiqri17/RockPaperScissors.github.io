@@ -1,0 +1,44 @@
+body {
+    overflow-x: hidden;
+    background: black;
+}
+
+a {
+    text-decoration: none;
+    color: #fff;
+}
+
+header {
+    background: url('/img/bg.png');
+    background-size:cover;
+    height: 100vh;
+    background-repeat: no-repeat;
+    width: 100%;   
+}
+
+header .title {
+    color: #fff;
+    padding-top: 15rem;
+}
+
+ .btn-primary {
+    background: transparent;
+    border: 2px solid #fff;
+}
+
+ .btn-primary:hover {
+    background: black;
+}
+
+ .btn-primary:focus {
+    background: transparent;
+}
+
+main {
+    color: #fff;
+}
+
+main .card {
+    border: 2px solid #fff;
+    background: transparent;
+}
