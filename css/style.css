@@ -8,13 +8,7 @@ a {
     color: #fff;
 }
 
-header {
-    background: url('img/bg.png');
-    background-size:cover;
-    height: 100vh;
-    background-repeat: no-repeat;
-    width: 100%;   
-}
+
 
 header .title {
     color: #fff;
